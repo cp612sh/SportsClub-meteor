@@ -1,0 +1,24 @@
+<template name="appBody">
+    {{> overlay}}
+    <div id="content-container">
+        {{> yield}}
+    </div>
+    <div class="tabs tabs-icon-top">
+          <a href="{{pathFor 'home'}}" class="tab-item positive">
+              <i class="icon ion-ios7-football"></i>
+              首   页
+          </a>
+          <a class="tab-item positive" href="{{pathFor 'messenger'}}">
+              <i class="icon ion-chatbubble-working"></i>
+              消   息
+          </a>
+          <a class="tab-item positive" href="{{pathFor 'woyaotiqiu'}}">
+              <i class="icon ion-arrow-shrink"></i>
+              我要踢球
+          </a>
+          <a class="tab-item positive" href="{{pathFor 'more'}}">
+              <i class="icon ion-more"></i>
+              更    多
+          </a>
+      </div>
+</template>
