@@ -8,8 +8,8 @@ Session.setDefault(SHOW_CONNECTION_ISSUE_KEY, false);
 //Session.setDefault(MENU_KEY, false);
 
 // XXX: this work around until IR properly supports this
-//   IR refactor will include Location.back, which will ensure that initator is
-//   set
+// IR refactor will include Location.back, which will ensure that initator is
+// set
 var nextInitiator = null, initiator = null;
 Deps.autorun(function() {
     // add a dep
