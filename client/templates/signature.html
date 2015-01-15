@@ -1,13 +1,9 @@
 <template name="signature">
-    <div class="bar bar-header bar-dark">
-        <div class="row">
-            <div class="col-33"><a href="{{pathFor 'home'}}" class="title title-left button-clear" style="z-index: 99999">返 回</a></div>
-            <div class="col-34"><h1 class="title">个性签名</h1></div>
-            <div class="col-33"><a href="#" class="title title-right button-clear" style="z-index: 99998">保 存</a></div>
-        </div>
-    </div>
+    {{#nav title='资料完善' back=true}}
+        <button class="icon icon-sync js-save"></button>
+    {{/nav}}
     <div class="content has-header padding">
-        <div class="card button-outline">
+        <div class="card button-outline padding-top">
             <div class="item item-text-wrap">
               <textarea name="text" type="text"
                         autocapitalize="off" autocorrect="off"
