@@ -2,180 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0b2c9a8-84b4-4bfa-823b-fabf5d21bbd6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/templates/home.html" afterPath="$PROJECT_DIR$/client/templates/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
-    <list id="ed046d0a-82e7-4f13-8936-452a3d5f6b01" name="Rejected commit: Default" comment="UI Init">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/activity/activity-placeholder-strawberry-640x640.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/app/bg-about-640x540.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/app/bg-home-640x655.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/app/bg-menu-640x1136.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/app/chrome-iphone6-432x882@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/fall-amatriciana.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/fall-amatriciana.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/fall-amatriciana.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/fall-chocolate-chai-cupcake.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/fall-chocolate-chai-cupcake.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/fall-chocolate-chai-cupcake.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/fall-mexican-rice.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/fall-mexican-rice.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/fall-mexican-rice.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/fall-orecchiette-sausage-ragu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/fall-orecchiette-sausage-ragu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/fall-orecchiette-sausage-ragu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/fall-peanut-butter-cookie.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/fall-peanut-butter-cookie.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/fall-peanut-butter-cookie.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/fall-roasted-butternut-squash-lasagna.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/fall-roasted-butternut-squash-lasagna.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/fall-roasted-butternut-squash-lasagna.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/fall-whole-wheat-goldfish-crackers.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/fall-whole-wheat-goldfish-crackers.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/fall-whole-wheat-goldfish-crackers.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/icons/icon-29x29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/icons/icon-29x29@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/icons/icon-36x36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/icons/icon-40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/icons/icon-40x40@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/icons/icon-48x48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/icons/icon-50x50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/icons/icon-50x50@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/icons/icon-57x57.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/icons/icon-57x57@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/icons/icon-60x60.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/icons/icon-60x60@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/icons/icon-72x72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/icons/icon-72x72@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/icons/icon-76x76.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/icons/icon-76x76@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/icons/icon-96x96.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/ionic/fonts/ionicons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/ionic/fonts/ionicons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/ionic/fonts/ionicons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/lato-black-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/lato-black-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/lato-black-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/lato-bold-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/lato-bold-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/lato-bold-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/lato-italic-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/lato-italic-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/lato-italic-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/lato-regular-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/lato-regular-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/lato-regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/lora-bold-subset.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/lora-bold-subset.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/lora-bold-subset.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icon/market.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icon/market.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icon/market.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/splash/splash-1024x768.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/splash/splash-1024x768@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/splash/splash-1280x720.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/splash/splash-200x320.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/splash/splash-320x200.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/splash/splash-320x480.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/splash/splash-320x480@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/splash/splash-320x568@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/splash/splash-480x320.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/splash/splash-480x800.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/splash/splash-720x1280.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/splash/splash-768x1024.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/splash/splash-768x1024@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/splash/splash-800x480.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/spring-animal-cracker-cookies.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/spring-animal-cracker-cookies.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/spring-animal-cracker-cookies.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/spring-chicken-in-mole.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/spring-chicken-in-mole.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/spring-chicken-in-mole.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/spring-easiest-spaghetti-and-meatballs.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/spring-easiest-spaghetti-and-meatballs.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/spring-easiest-spaghetti-and-meatballs.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/spring-fromage-fort.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/spring-fromage-fort.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/spring-fromage-fort.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/spring-lahmacun-turkish-pizza.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/spring-lahmacun-turkish-pizza.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/spring-lahmacun-turkish-pizza.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/spring-meatloaf.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/spring-meatloaf.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/spring-meatloaf.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/spring-ragu-bolognese.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/spring-ragu-bolognese.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/spring-ragu-bolognese.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/spring-spanish-asparagus-revuelto.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/spring-spanish-asparagus-revuelto.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/spring-spanish-asparagus-revuelto.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/summer-apricots-honey-panna-cotta.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/summer-apricots-honey-panna-cotta.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/summer-apricots-honey-panna-cotta.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/summer-bavarian-pretzel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/summer-bavarian-pretzel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/summer-bavarian-pretzel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/summer-elderberry-syrup.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/summer-elderberry-syrup.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/summer-elderberry-syrup.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/summer-grits-icecream.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/summer-grits-icecream.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/summer-grits-icecream.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/summer-hamburger.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/summer-hamburger.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/summer-hamburger.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/summer-homemade-pasta-dough.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/summer-homemade-pasta-dough.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/summer-homemade-pasta-dough.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/summer-shaking-beef.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/summer-shaking-beef.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/summer-shaking-beef.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/summer-spaghetti-lemon-olive.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/summer-spaghetti-lemon-olive.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/summer-spaghetti-lemon-olive.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/winter-braised-duck.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/winter-braised-duck.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/winter-braised-duck.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/winter-braised-eggs-with-beef.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/winter-braised-eggs-with-beef.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/winter-braised-eggs-with-beef.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/winter-cashew-gateau.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/winter-cashew-gateau.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/winter-cashew-gateau.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/winter-chocolate-tart.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/winter-chocolate-tart.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/winter-chocolate-tart.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/320x350/winter-world-peace-cookie.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x480/winter-world-peace-cookie.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/recipes/640x800/winter-world-peace-cookie.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.meteor/.finished-upgraders" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.meteor/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/ionic/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/request/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/request/.npm/package/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.meteor/.id" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/request/.npm/package/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/ionic/css/ionic.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/ionic/fonts/ionicons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/app/logo-local.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icon/market.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/request/.npm/package/npm-shrinkwrap.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/ionic/package.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/request/package.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.meteor/packages" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.meteor/platforms" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/registers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.meteor/release" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/request/request-server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/app/title-about.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/users.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/ionic/versions.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/request/versions.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.meteor/versions" />
-    </list>
+    <list id="ed046d0a-82e7-4f13-8936-452a3d5f6b01" name="Rejected commit: Default" comment="UI Init" />
     <ignored path="SportsClub.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -211,7 +40,7 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6795977" vertical-offset="202" max-vertical-offset="900">
+            <state vertical-scroll-proportion="0.70977014" vertical-offset="181" max-vertical-offset="900">
               <caret line="45" column="52" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
               <folding />
             </state>
@@ -355,8 +184,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="415" />
-    <option name="y" value="133" />
+    <option name="x" value="366" />
+    <option name="y" value="144" />
     <option name="width" value="1174" />
     <option name="height" value="840" />
   </component>
@@ -383,7 +212,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -464,6 +292,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -475,6 +304,9 @@
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -492,14 +324,10 @@
       <ConfigurationWrapper RunnerId="debuggableProgram" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -507,6 +335,10 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -603,8 +435,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="415" y="133" width="1174" height="840" extended-state="0" />
-    <editor active="true" />
+    <frame x="366" y="144" width="1174" height="840" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28320527" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -617,14 +449,14 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21437423" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21437423" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39979655" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.67870486" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1014,7 +846,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6795977" vertical-offset="202" max-vertical-offset="900">
+        <state vertical-scroll-proportion="0.70977014" vertical-offset="181" max-vertical-offset="900">
           <caret line="45" column="52" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
           <folding />
         </state>
