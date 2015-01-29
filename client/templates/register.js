@@ -33,7 +33,7 @@ Template.register.events({
     'click .send-verification-code': function(event,t){
         event.preventDefault();
         var phoneNumber = $(t.firstNode).find('[name=userName]').val();
-        alert(phoneNumber);
+       // alert(phoneNumber);
         Meteor.call('sendVerificationCode', phoneNumber, true, function(error){
             if(error)
                 alert(error.reason);

@@ -90,4 +90,4 @@ Template.appBody.helpers({
         event.stopImmediatePropagation();
         event.preventDefault();
     }
-})
+});
